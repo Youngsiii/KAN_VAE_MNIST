@@ -12,6 +12,7 @@ while the training time for variational autoencoder using KAN is 1117 seconds.
 
 ## 生成图片
 ### VAE_MLP
+![image](vae_img/image_1.png)
 ![image](vae_img/image_2.png)
 ![image](vae_img/image_3.png)
 ![image](vae_img/image_4.png)
@@ -19,6 +20,7 @@ while the training time for variational autoencoder using KAN is 1117 seconds.
 
 
 ### VAE_KAN
+![image](vae_img/kan_image_1.png)
 ![image](vae_img/kan_image_2.png)
 ![image](vae_img/kan_image_3.png)
 ![image](vae_img/kan_image_4.png)
