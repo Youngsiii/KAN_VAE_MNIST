@@ -11,7 +11,7 @@ This repository uses an efficient implementation of KAN which is available [here
 使用 MLP 的变异自动编码器的训练时间为 192 秒，而使用 KAN 的变异自动编码器的训练时间为 1117 秒。
 
 
-## Generated images
+## Generated Images
 ### VAE_MLP
 <p float="left">
   <img src="vae_img/image_1.png" alt="Placeholder1" width="121" />
