@@ -3,7 +3,7 @@ This is an implementation that uses KAN instead of MLP in both autoencoder and v
 the experimental dataset is MNIST, and the same network architecture and training parameters are constructed on CPU. 
 After experimentation, it is observed that KAN achieves the same results as MLP in both autoencoder and variational autoencoder,
 but the training time is much longer, for 5 epochs on CPU, the training time for variational autoencoder using MLP is 192 seconds, 
-while the training time for variational autoencoder using KAN is 1117 seconds.               
+while the training time for variational autoencoder using KAN is 1117 seconds.                    
 This repository uses an efficient implementation of KAN which is available [here](https://github.com/Blealtan/efficient-kan).
 
 这是一个在自动编码器和变分自动编码器中使用 KAN 代替 MLP 的实现，实验数据集为 MNIST，在 CPU 上构建了相同的网络结构和训练参数。
