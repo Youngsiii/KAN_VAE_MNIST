@@ -12,16 +12,21 @@ while the training time for variational autoencoder using KAN is 1117 seconds.
 
 ## 生成图片
 ### VAE_MLP
-![image](vae_img/image_1.png)
-![image](vae_img/image_2.png)
-![image](vae_img/image_3.png)
-![image](vae_img/image_4.png)
-![image](vae_img/image_5.png)
+<p float="left">
+  <img src="vae_img/image_1.png" alt="Placeholder1" width="121" />
+  <img src="vae_img/image_2.png" alt="Placeholder2" width="121" /> 
+  <img src="vae_img/image_3.png" alt="Placeholder3" width="121" />
+  <img src="vae_img/image_4.png" alt="Placeholder4" width="121" /> 
+  <img src="vae_img/image_5.png" alt="Placeholder5" width="121" /> 
+</p>
 
 
 ### VAE_KAN
-![image](vae_img/kan_image_1.png)
-![image](vae_img/kan_image_2.png)
-![image](vae_img/kan_image_3.png)
-![image](vae_img/kan_image_4.png)
-![image](vae_img/kan_image_5.png)
+<p float="left">
+  <img src="vae_img/kan_image_1.png" alt="Placeholder6" width="121" />
+  <img src="vae_img/kan_image_2.png" alt="Placeholder7" width="121" /> 
+  <img src="vae_img/kan_image_3.png" alt="Placeholder8" width="121" />
+  <img src="vae_img/kan_image_4.png" alt="Placeholder9" width="121" /> 
+  <img src="vae_img/kan_image_5.png" alt="Placeholder10" width="121" /> 
+</p>
+
