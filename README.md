@@ -12,6 +12,7 @@ This repository uses an efficient implementation of KAN which is available [here
 
 
 ## Generated Images
+The number of iterations increases from left to right.
 ### VAE_MLP
 <p float="left">
   <img src="vae_img/image_1.png" alt="Placeholder1" width="121" />
